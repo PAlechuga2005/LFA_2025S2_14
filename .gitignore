@@ -1,0 +1,47 @@
+# Archivos de Python compilados
+_pycache_/
+*.pyo
+*.pyd
+*.so
+
+# Archivos de entorno virtual
+.env
+.venv
+env/
+venv/
+
+# Archivos de configuración de editores
+.vscode/
+.idea/
+
+# Archivos de dependencias
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Cachés y logs
+*.log
+*.pot
+*.mo
+*.sqlite3
+
+# Archivos de pruebas
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+.nox/
+
+# Configuración de Jupyter
+.ipynb_checkpoints
+*.ipynb
+
+# Configuración de sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Lo que pediste
+*.zip
+*.docx

@@ -1,0 +1,59 @@
+id_usuario,nombre_usuario,id_libro,titulo_libro,fecha_prestamo,fecha_devolucion
+1001,Ana Lopez,LIB001,El Principito,2025-07-01,2025-07-10
+1002,Carlos Ramirez,LIB002,Cien Años de Soledad,2025-07-03,
+1003,Lucia Mendez,LIB003,1984,2025-07-05,
+1001,Ana Lopez,LIB004,Don Quijote de la Mancha,2025-07-06,
+1004,Mario Gomez,LIB001,El Principito,2025-07-07,
+1002,Carlos Ramirez,LIB005,Fahrenheit 451,2025-07-08,2025-07-15
+1005,Elena Ruiz,LIB006,Cronica de una Muerte Anunciada,2025-08-10,
+1003,Lucia Mendez,LIB002,Cien Años de Soledad,2025-07-09,2025-07-17
+2001,Juan Garcia,LIB101,La Sombra del Viento,2024-01-15,2024-01-29
+2002,Maria Rodriguez,LIB102,El Juego del Angel,2024-03-22,2024-04-05
+2003,Carlos Martinez,LIB103,El Prisionero del Cielo,2023-11-10,
+2004,Ana Hernandez,LIB104,El Laberinto de los Espiritus,2025-02-18,2025-03-04
+2005,Luis Gonzalez,LIB105,La Catedral del Mar,2024-05-01,2024-05-15
+2006,Laura Perez,LIB106,Los Pilares de la Tierra,2023-09-05,2023-09-19
+2007,Javier Sanchez,LIB107,Un Mundo sin Fin,2024-07-12,
+2008,Sofia Ramirez,LIB108,El Nombre del Viento,2025-01-30,2025-02-13
+2009,David Torres,LIB109,El Temor de un Hombre Sabio,2024-09-20,2024-10-04
+2010,Elena Flores,LIB110,Cronicas de la Torre,2023-12-25,2024-01-08
+2011,Daniel Vazquez,LIB111,El Silmarillion,2024-02-14,
+2012,Paula Moreno,LIB112,El Hobbit,2025-06-03,2025-06-17
+2013,Alejandro Jimenez,LIB113,El Señor de los Anillos,2024-08-19,2024-09-02
+2014,Carmen Ruiz,LIB114,Dune,2023-10-11,2023-10-25
+2015,Adrian Diaz,LIB115,Fundacion,2024-11-08,
+2016,Sara Romero,LIB101,La Sombra del Viento,2025-04-22,2025-05-06
+2017,Pablo Alvarez,LIB102,El Juego del Angel,2024-12-30,2025-01-13
+2018,Lucia Gutierrez,LIB103,El Prisionero del Cielo,2023-08-17,2023-08-31
+2019,Jorge Molina,LIB104,El Laberinto de los Espiritus,2025-07-01,
+2020,Cristina Ortega,LIB105,La Catedral del Mar,2024-04-09,2024-04-23
+2021,Marcos Delgado,LIB106,Los Pilares de la Tierra,2023-07-25,2023-08-08
+2022,Raquel Castro,LIB107,Un Mundo sin Fin,2024-10-14,
+2023,Miguel Marin,LIB108,El Nombre del Viento,2025-08-28,2025-09-11
+2024,Andrea Serrano,LIB109,El Temor de un Hombre Sabio,2024-06-16,2024-06-30
+2025,Manuel Dominguez,LIB110,Cronicas de la Torre,2023-06-02,2023-06-16
+2026,Natalia Reyes,LIB111,El Silmarillion,2025-03-11,
+2027,Francisco Gil,LIB112,El Hobbit,2024-01-04,2024-01-18
+2028,Beatriz Sanz,LIB113,El Señor de los Anillos,2023-05-20,2023-06-03
+2029,Ivan Cano,LIB114,Dune,2024-03-07,
+2030,Nerea Pascual,LIB115,Fundacion,2025-05-19,2025-06-02
+2031,Sergio Vidal,LIB101,La Sombra del Viento,2023-04-27,2023-05-11
+2032,Angela Ferrer,LIB102,El Juego del Angel,2024-06-01,2024-06-15
+2033,Ruben Medina,LIB103,El Prisionero del Cielo,2025-08-09,
+2034,Monica Vega,LIB104,El Laberinto de los Espiritus,2023-03-15,2023-03-29
+2035,Alberto Fuentes,LIB105,La Catedral del Mar,2024-09-03,2024-09-17
+2036,Lorena Campos,LIB106,Los Pilares de la Tierra,2025-07-20,
+2037,Ricardo Soler,LIB107,Un Mundo sin Fin,2023-02-09,2023-02-23
+2038,Esther Exposito,LIB108,El Nombre del Viento,2024-12-05,2024-12-19
+2039,Victor Herrero,LIB109,El Temor de un Hombre Sabio,2025-06-25,
+2040,Raquel Lorenzo,LIB110,Cronicas de la Torre,2023-01-24,2023-02-07
+2041,Guillermo Montero,LIB111,El Silmarillion,2024-02-28,2024-03-13
+2042,Rocio Ibañez,LIB112,El Hobbit,2025-01-08,
+2043,Fernando Duran,LIB113,El Señor de los Anillos,2024-05-13,2024-05-27
+2044,Silvia Santiago,LIB114,Dune,2023-12-01,2023-12-15
+2045,Mario Arias,LIB115,Fundacion,2024-10-29,
+2046,Susana Prieto,LIB101,La Sombra del Viento,2025-04-02,2025-04-16
+2047,Jose Antonio Pastor,LIB102,El Juego del Angel,2023-11-18,2023-12-02
+2048,Pilar Santos,LIB103,El Prisionero del Cielo,2024-08-25,
+2049,Felipe Saez,LIB104,El Laberinto de los Espiritus,2025-03-27,2025-04-10
+2050,Irene Velasco,LIB105,La Catedral del Mar,2023-10-03,2023-10-17
